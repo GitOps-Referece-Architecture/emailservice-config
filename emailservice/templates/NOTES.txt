@@ -1,0 +1,1 @@
+Service {{ include "emailservice.name" . }} has been deployed successfully!
